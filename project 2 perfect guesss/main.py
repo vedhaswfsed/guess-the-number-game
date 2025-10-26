@@ -11,8 +11,9 @@ while(a!=n):
     else:
         print("higher please")
 
-print(f"you have guessed th number correctly in {guesses} guesses")
+print(f"you have guessed the number correctly in {guesses} guesses")
 
 
     
+
 
